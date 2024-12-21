@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Pacifico&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+    margin:0;
+    font-family: "Inconsolata", monospace;
+}
+
+h1 {
+    font-family: "Inconsolata", monospace;
+}
+header {
+    background-color: #BABABA;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo {
+    display: flex;
+    align-items: center;
+}
+.logoimg {
+    padding: 1px;
+}
+ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+a {
+    color: black;
+    text-decoration: none;
+    margin-right: 50px;
+}
+
+.King_bomb {
+    background-color: #D1D1D1;
+    padding: 30px;
+}
+
+h2 {
+    color: black;
+    font-family: "Inconsolata", monospace;
+    text-align: center;
+}
+
+.Chernobil {
+    background-color: #D1D1D1;
+    padding: 30px;
+}
+
+h2 {
+    color: #000;
+    font-family: "Inconsolata", monospace;
+}
+
+footer {
+    background-color: #BABABA;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logof {
+    display: flex;
+    align-items: center;
+}
+.logofimg {
+    padding: 5px;
+}
